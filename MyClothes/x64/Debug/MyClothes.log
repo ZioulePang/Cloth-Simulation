@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\Clothing\MyClothes\model.h(86,13): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Clothing\MyClothes\model.h(96,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Clothing\MyClothes\main.cpp(172,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Clothing\MyClothes\main.cpp(176,46): warning C4305: “参数”: 从“double”到“float”截断
+D:\Clothing\MyClothes\main.cpp(178,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Clothing\MyClothes\main.cpp(188,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Clothing\MyClothes\main.cpp(195,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Clothing\MyClothes\main.cpp(204,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Clothing\MyClothes\main.cpp(212,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Clothing\MyClothes\main.cpp(216,38): warning C4305: “参数”: 从“double”到“float”截断
+D:\Clothing\MyClothes\main.cpp(218,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MyClothes.vcxproj -> D:\Clothing\MyClothes\x64\Debug\MyClothes.exe
